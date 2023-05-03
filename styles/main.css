@@ -39,9 +39,11 @@ main {
 
 .main__info div a {
     background: var(--red);
+    border: 1px solid var(--green);
 }
 
 .main__info div button {
     background: transparent;
     border: 1px solid var(--green);
+    background: var(--red);
 }
